@@ -1,4 +1,3 @@
-
 let shapes = [];
 let keyMap = {};
 let scaleFreqs = [261.63, 277.18, 329.63, 369.99, 415.30, 466.16, 493.88]; // enigmatic scale
